@@ -1,5 +1,7 @@
 # Praktikum Algoritma Pemrograman
 Nama : Lukman Arif Wicaksono
+
+    
 NIM : 43325113
 
 
