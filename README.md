@@ -12,3 +12,5 @@ Prodi : Teknologi Rekayasa Komputer
 
 
 Kelas : TI-1B
+
+ Jobsheet di upload pada brench yang berbeda
